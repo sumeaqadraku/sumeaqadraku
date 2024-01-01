@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumea Qadraku</h1>
 <h3 align="center">A Python Developer & Programming Trainer at MakerMinds</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumeaqadraku&label=Profile%20views&color=0e75b6&style=flat" alt="sumeaqadraku" /> </p>
-
-
 - 🔭 I’m currently working on **App Development with OOP**
 
 - 👯 I’m looking to collaborate on **any project**
