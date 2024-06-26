@@ -11,7 +11,7 @@
 - 📫 How to reach me **sumeaqadraku@gmail.com**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sumea-qadraku-3b4616232/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sumeaqadraku) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
