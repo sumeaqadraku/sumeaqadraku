@@ -2,11 +2,9 @@
 <h3 align="center">A Python Developer & Programming Trainer at MakerMinds</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **App Development with OOP**
+- 🔭 I’m currently working on **Software Development with focus on Data Science**
 
-- 👯 I’m looking to collaborate on **any project**
-
-- 💬 Ask me about **Python, Kivy, Java, SpringBoot, Django**
+- 💬 Ask me about **Python, Data Analytics, Kivy, Django**
 
 - 📫 How to reach me **sumeaqadraku@gmail.com**
 
