@@ -4,7 +4,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on **Software Development with focus on Data Science**
 
-- 💬 Ask me about **Python, Data Analytics, Kivy, Django**
+- 💬 Ask me about **Python, Data Analytics, AI & ML**
 
 - 📫 How to reach me **sumeaqadraku@gmail.com**
 
