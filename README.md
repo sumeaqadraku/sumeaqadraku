@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sumea Qadraku</h1>
+<h1 align="center">Hi, I'm Sumea Qadraku</h1>
 <h3 align="center">A Python Developer & Programming Trainer at MakerMinds</h3>
 
 
