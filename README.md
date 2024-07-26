@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Sumea Qadraku</h1>
 <h3 align="center">A Python Developer & Programming Trainer at MakerMinds</h3>
-<h3 a href ="https://sumea-dev.netlify.app/> https://sumea-dev.netlify.app/ </a> </h3>
+<h3>
+  <a href="https://sumea-dev.netlify.app/">https://sumea-dev.netlify.app/</a>
+</h3>
 
 
 - 🔭 I’m currently working on **training AI models**
