@@ -2,13 +2,12 @@
 
 ## About Me
 
-```cpp
-fn main() {
-    let name = "Sumea Qadraku";
-    let acknowledgements = "Software Engineer";
-    let location = "Kosovo";
-    let company = "MakerMinds L.L.C";
-}
+```python
+def main():
+    name = "Sumea Qadraku"
+    acknowledgements = "Software Engineer"
+    location = "Kosovo"
+    company = "MakerMinds L.L.C"
 ```
 
 <h3 align="left">Connect with me:</h3>
