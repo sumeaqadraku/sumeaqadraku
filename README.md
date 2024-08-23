@@ -1,14 +1,14 @@
-<h1 align="center">Hi, I'm Sumea Qadraku</h1>
-<h3 align="center">A Python Developer & Programming Trainer at MakerMinds</h3>
+# Welcome to My GitHub Profile! 👋
 
+## About Me
+```cpp
+fn main() {
+    let name = "Sumea Qadraku";
+    let acknowledgements = "Software Engineer";
 
-- 🔭 I’m currently working on **training AI models**
-
-- 👯 I’m looking to collaborate on **any project**
-
-- 💬 Ask me about **Python, AI & ML**
-
-- 📫 How to reach me **sumeaqadraku@gmail.com**
+    let location = "Kosovo";
+    let company = "MakerMinds L.L.C";
+}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
