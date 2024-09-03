@@ -1,4 +1,4 @@
-# Hi, I'm Sumea. A Python Developer. 👋
+
 
 ## About Me
 
