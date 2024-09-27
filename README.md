@@ -6,8 +6,7 @@
 def main():
     name = "Sumea Qadraku"
     acknowledgements = "Software Engineer"
-    location = "Kosovo"
-    company = "MakerMinds L.L.C"
+  
 ```
 
 
